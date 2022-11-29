@@ -3,7 +3,7 @@
 
 
 
-<img align="right" height="300em" src="https://github.com/keilaoliveira/keilaoliveira/blob/main/Img/octocat-1669677783377.png"/>
+<img align="right" height="450em" src="https://github.com/keilaoliveira/keilaoliveira/blob/main/Img/octocat-1669677783377.png"/>
 
 
 🔭 Trabalho com desenvolvimento de sistemas e atuo como Tech lead. <br>
