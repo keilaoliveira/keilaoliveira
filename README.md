@@ -1,20 +1,32 @@
 ### Olá, eu sou a Keila Oliveira ! 
-#### Bem vindo ao meu perfil GitHub 👋
+#### Bem vindo ao meu perfil GitHub 👋 <br><br>
 
 
-## Contatos:
-<a href="https://www.linkedin.com/in/keiladeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-<p align="center">  
+<img align="right" height="200em" src="https://github.com/keilaoliveira/keilaoliveira/blob/main/Img/octocat-1669677783377.png"/>
 
-</p>
+🔭 Trabalho com desenvolvimento de sistemas e atuo como Tech lead. <br>
+🌱 Estou me aprofundando em Java , Spring Boot e API REST. <br>
+📘 Sou formada em Análise e Desenvolvimento de Sistemas <br>
+📓 Pós graduando em Gestão e Desenvolvimento de Sistemas <br>
 
+<br><br>
+
+## Contato:
+<a href="https://www.linkedin.com/in/keiladeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+<br><br>
+
+## Projetos:
+<div>
+<a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=keilaoliveira&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=keilaoliveira&theme=onedark&hide_border=true"/>
+    </a>
 
 <div>
-<a href="https://github.com/keilaoliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keilaoliveira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keilaoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 <!--
