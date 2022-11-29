@@ -32,16 +32,16 @@
 ## Contato:
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/keiladeoliveira/">
+  <a href="https://www.linkedin.com/in/keiladeoliveira/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/k.escrevendo.historias">
+  <a href="https://instagram.com/k.escrevendo.historias" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/keila_oliveira8">
+  <a href="https://twitter.com/keila_oliveira8" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;   
-  <a href="https://facebook.com/keila.oliveira08">
+  <a href="https://facebook.com/keila.oliveira08" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;         
   
