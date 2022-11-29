@@ -3,19 +3,25 @@
 
 
 
-<img align="right" height="200em" src="https://github.com/keilaoliveira/keilaoliveira/blob/main/Img/octocat-1669677783377.png"/>
+<img align="right" height="300em" src="https://github.com/keilaoliveira/keilaoliveira/blob/main/Img/octocat-1669677783377.png"/>
+
 
 🔭 Trabalho com desenvolvimento de sistemas e atuo como Tech lead. <br>
 🌱 Estou me aprofundando em Java , Spring Boot e API REST. <br>
 📘 Sou formada em Análise e Desenvolvimento de Sistemas <br>
 📓 Pós graduando em Gestão e Desenvolvimento de Sistemas <br>
 
+<br>
+
+<a href="https://github.com/keilaoliveira">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keilaoliveira&layout=compact&langs_count=7&theme=codeSTACKr"/>
+        
 <br><br>
 
 ## Contato:
 <a href="https://www.linkedin.com/in/keiladeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-<br><br>
+<br>
 
 ## Projetos:
 <div>
@@ -28,6 +34,7 @@
 
 <div>
 
+        
 
 <!--
 **keilaoliveira/keilaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
